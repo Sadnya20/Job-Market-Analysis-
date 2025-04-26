@@ -1,4 +1,6 @@
 # 💼 Data Job Market Demand Analysis
+![image](https://github.com/user-attachments/assets/207f861c-f14c-4e23-ac39-bc01f4f83ff1)
+
 
 A **data analytics and visualization project** focused on understanding job market trends across skills, industries, locations, and experience levels. Built with **Python**, **Streamlit**, and an interactive **Power BI Dashboard** showcasing key insights and KPIs.
 
@@ -7,6 +9,9 @@ A **data analytics and visualization project** focused on understanding job mark
 ---
 
 ## 📌 Project Overview
+
+![image](https://github.com/user-attachments/assets/6755e1db-7993-46c1-bca9-be11d5a403ad)
+
 
 This project collects and analyzes real-world job postings using data from **public APIs**, **job boards**, and **historic datasets**.  
 The goal is to **identify in-demand skills**, **growing industries**, **salary patterns**, and **geographic job opportunities**, helping users make informed career decisions.
@@ -31,15 +36,10 @@ The goal is to **identify in-demand skills**, **growing industries**, **salary p
 
 ```bash
 📦 job-market-demand-analysis/
-├── Data_job.csv                # Aggregated and cleaned job postings dataset
-├── PowerBI_Dashboard.pbix       # Power BI dashboard file
-├── Images/
-│   └── cover.png                # Cover page image for the dashboard
-├── scripts/                     # (Optional) Python scripts for data collection and cleaning
-│   └── clean_data.py
-├── README.md                    # Project documentation (this file)
-├── requirements.txt             # Python dependencies (if using scripts)
-└── LICENSE                      # Open-source license file
+├── Visuals/             # Power BI dashboard screenshots, visuals, charts
+├── src/                 # Scripts for data processing, modeling, and exporting insights
+├── README.md            # Project documentation (this file)
+
 ```
 
 ---
